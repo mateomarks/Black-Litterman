@@ -1,4 +1,4 @@
-# Black-Litterman
+# Artificial Intelligence generated views on the Black-Litterman model
 
 ### 👨‍💻 Work in Progress 👨‍💻 
 
